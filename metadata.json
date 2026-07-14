@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Daily Sales & Inventory",
+  "description": "A modern sales and inventory management dashboard for restaurants, integrated with Google Sheets and Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
